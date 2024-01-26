@@ -1,0 +1,55 @@
+Whole Number
+	byte	1 bytes
+	short	2 bytes
+	int	4 bytes
+	long	8 bytes
+
+Decimal Numbers 
+	float 	 4 bytes
+	double 	 8 bytes
+
+Text 
+	String
+
+Characters
+	char
+
+Yes/No
+	boolean
+
+
+Identifier
+
+	User defined name given to class, variables or methods
+
+Rules for Identifiers
+
+	1) It should allow only a-z, 0-9, _, $
+	2) It should not start with digits
+	3) We cannot use reserved keyword as a identifiers
+	4) Idenetifiers are case sensitive
+
+Examples:
+
+	int num_1 = 10; 	// Valid
+	int _____ = 20; 	// Valid
+	int __ __ = 30;		// Invalid - space is not allowed
+	int byte = 40; 		// Invalid
+	int MY_VARIABLE = 50; 	// Valid
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
