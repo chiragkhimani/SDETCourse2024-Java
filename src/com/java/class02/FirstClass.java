@@ -1,4 +1,4 @@
-package com.java.class01;
+package com.java.class02;
 
 // Create a new Class called SecondClass in the same package
 // and print your name in the Output

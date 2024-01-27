@@ -1,7 +1,7 @@
 Whole Number
 	byte	1 bytes
 	short	2 bytes
-	int	4 bytes
+	int 	4 bytes
 	long	8 bytes
 
 Decimal Numbers 

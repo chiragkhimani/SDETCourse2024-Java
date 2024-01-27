@@ -1,4 +1,4 @@
-package com.java.class02;
+package com.java.class03;
 
 public class AssignmentOperator {
     public static void main(String[] args) {

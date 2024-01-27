@@ -1,4 +1,4 @@
-package com.java.class01;
+package com.java.class02;
 
 public class SecondClass {
     public static void main(String[] args) {

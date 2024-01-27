@@ -1,4 +1,4 @@
-package com.java.class01;
+package com.java.class02;
 
 // I want to multiply 10 with result of 40 + 80
 
