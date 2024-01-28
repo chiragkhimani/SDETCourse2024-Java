@@ -1,0 +1,51 @@
+1. Identifier, Data Types, Variables
+
+2. Operators:
+
+Assignment (=)
+
+Arithmetic +, -, *, /, %
+
+	%2 = To check ODD Even
+
+	    10%2 = 0
+	    15%2 = 1
+
+	%10 = To get the last number
+
+	    2024%10 = 4
+
+	/10 = To remove the last number
+
+	    2024/10 = 202
+
+Comparison or Relational Operator (<,>,<=,>=,==,!=)
+
+3. Expression and Priority
+
+4. String+String = String Concatenation
+
+5. Type Casting
+
+	a. Storing Bigger Value into the Smaller Data Type = Yes
+	b. Storing Smaller Value into the Bigger Data Type = No
+
+6. Conditional Statement
+
+ a. if
+
+	if (condition) {
+  	// code to be executed if the condition is true
+	}
+b. if else
+
+	if (condition) {
+ 	 // code to be executed if the condition is true
+	} else {
+	  // code to be executed if the condition is false
+	}
+
+c. Ladder if else
+
+d. Nested if else
+
