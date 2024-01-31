@@ -1,0 +1,55 @@
+6. Conditional Statement
+
+a. if
+
+	if (condition) {
+  	// code to be executed if the condition is true
+	}
+
+b. if else
+
+	: When we have two possible output-based Single Condition
+
+	Syntax:
+	if (condition) {
+ 	 // code to be executed if the condition is true
+	} else {
+	  // code to be executed if the condition is false
+	}
+
+
+c. Ladder if else
+
+	: When we have multiple conditions (mutually exclusive -- they are not interdependent), and only one code will be executed
+
+	Syntax:
+	if (condition) {
+ 	 // code to be executed if the condition is true
+	}else if(condition) {
+	  // code to be executed if the condition is false
+	}
+	 else {
+	  // code to be executed if the condition is false
+	}
+
+
+d. Nested if else
+
+	: When we have a condition that depends on other conditions, creating like-layered decision-making
+
+Syntax:
+	if (condition) {
+
+ 	  	if (condition) {
+ 	 	// code to be executed if the condition is true
+		} else {
+	  	// code to be executed if the condition is false
+		}
+
+	} else {
+	  	if (condition) {
+ 	 	// code to be executed if the condition is true
+		} else {
+	 	 // code to be executed if the condition is false
+		}
+	}

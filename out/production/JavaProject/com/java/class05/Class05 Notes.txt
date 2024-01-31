@@ -1,0 +1,39 @@
+2. Operator
+
+	1. =
+
+	2. +, -, *, / %
+
+	3. <>, <=, >=, ==, !=
+
+4. Logical Operator
+
+	&&, ||, !
+
+AND Operator(&&)
+
+	b1 	b2 	Result
+
+	True	False	False
+	False	True	False
+
+	True	True	True
+	False	False	False
+
+OR Operator(||)
+
+	b1 	b2 	Result
+
+	True	False	True
+	False	True	True
+
+	True	True	True
+	False	False	False
+
+Not (!)
+
+
+b1 	Result
+
+True	False
+False	True
