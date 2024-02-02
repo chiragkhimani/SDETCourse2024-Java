@@ -14,13 +14,13 @@ public class LadderIfElseEg2 {
         // 100 - Just enter from 1 to 7
         int num1 = 2;
 
-        if (num1 > 1) {
+        if (num1 == 1) {
             System.out.println("Sunday");   //Sun  //Sun  //Sun Mon Tue //
-        } else if (num1 > 2) {
+        } else if (num1 == 2) {
             System.out.println("Monday");
-        } else if (num1 > 3) {
+        } else if (num1 == 3) {
             System.out.println("Tuesday");
-        } else if (num1 <= 4) {
+        } else if (num1 == 4) {
             System.out.println("Wednesday");
         } else if (num1 == 5) {
             System.out.println("Thursday");
