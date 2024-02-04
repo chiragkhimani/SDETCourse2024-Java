@@ -1,0 +1,21 @@
+Switch:
+
+1. N number case we can write with Switch
+
+2. break; and default; - Optional
+
+3. Case value must be constant - we can not use range with a switch
+
+4. The Java switch expression must be of byte, short, int, long, char, string and boolean.
+
+double and float are not allowed
+
+
+Homework1
+
+A, E, I, O, U
+
+
+Homework2
+
+int num1, int num2, +,-,*,/
