@@ -17,7 +17,7 @@ public class Calculator_SwitchHW {
 
                 switch (operator) {
                     case "+":
-                        System.out.println("Result ="+i+j);
+                        System.out.println("Result ="+(i+j));
                         break;
                     case "-":
                         System.out.println("Result ="+ (i-j));
