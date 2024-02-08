@@ -14,7 +14,6 @@ public class HW3_SumOfDigits {
         //Logic
         while (num > 0) {
             sum =  sum+ num % 10;
-            System.out.println(sum);
             num = num / 10;
         }
 
