@@ -1,0 +1,39 @@
+============Array==================
+1. Declare an Array
+
+int page[] = {1,2,3};
+
+2. How to print any one value from an array
+sout(page[2]);
+
+3. How to get the length of the array
+sout(page.length);
+
+
+4. How to print all values from array
+
+for (int i = 0; i<page.length;i++){
+	sout(page[i]);
+};
+
+5. Second way of declaring an array
+
+int[] age = new int[5];
+age[0] = 12;
+age[1] = 10;
+age[2] = 15;
+age[3] = 20;
+age[4] = 25;
+
+6. If we are not assigning any value to variables, then it will print default values
+
+int ==> 0
+String ==> null
+boolean ==> false
+
+
+7. Enhanced for loop
+
+for (int printAge:age) {
+            System.out.println(printAge);
+        }
