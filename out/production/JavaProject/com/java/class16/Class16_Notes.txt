@@ -1,0 +1,11 @@
+int a = 10;
+
+1. int a [] = {10,20,40,50};
+
+2. To find the length of array = a.length
+
+3. sout(a[2]);
+
+4. To print all the values - ForLoop, ForEach
+
+5. sout(a[4]) -->> Array Index Out of Bound Exception

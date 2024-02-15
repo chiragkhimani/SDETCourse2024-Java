@@ -17,7 +17,7 @@ public class dCheckArrayisSorted {
             num[i] = sc.nextInt();
         }
 
-        //Condition
+        //Condition    //0 to 5 - 6   01, 12, 23, 34,45 5&6
         int count = 0;
         for (int i = 0; i < num.length - 1; i++) {  //0  ,1, 2
             if (num[i] > num[i + 1]) {          //0&1 ,1&2, 2&3
