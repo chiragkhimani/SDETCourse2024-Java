@@ -8,8 +8,8 @@ public class aMaxFromArray {
 
         //logic
         for (int i = 0; i < num.length; i++) {
-            for (int j = 0; j < num[i].length; j++) {
-                if (maxNum < num[i][j]) {
+                        for (int j = 0; j < num[i].length; j++) {
+                             if (maxNum < num[i][j]) {
                     maxNum = num[i][j];
 
                 }
