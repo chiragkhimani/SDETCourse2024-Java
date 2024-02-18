@@ -8,7 +8,7 @@ public class ReverseNum2 {
         int revNum = 0;
 
         while (num > 0) {
-            revNum = revNum*10 +num % 10; //4
+            revNum = revNum*10 +num % 10; //5*10 + 4
             num = num / 10;
         }
         System.out.println(revNum);

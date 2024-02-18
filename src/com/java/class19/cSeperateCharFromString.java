@@ -6,7 +6,12 @@ public class cSeperateCharFromString {
 
         String str1 = "Hello";
 
-        
+        for (int i=0; i<str1.length(); i++){
+            System.out.println(str1.charAt(i));
+
+        }
+
+
 
     }
 

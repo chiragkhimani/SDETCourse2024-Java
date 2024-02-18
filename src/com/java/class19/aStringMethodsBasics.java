@@ -50,7 +50,6 @@ public class aStringMethodsBasics {
         System.out.println(str7.contains(" ")); //T
         System.out.println(str7.indexOf(" ")); //0
 
-
     }
 
 
