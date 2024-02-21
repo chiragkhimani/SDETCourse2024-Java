@@ -1,0 +1,12 @@
+Way2
+1. Convert to char array
+2. Arrays.sort
+3. Convert char Array to String
+4. Compare String
+
+
+
+Way3
+1. Convert to char array
+2. Arrays.sort
+3. Comparing Array
