@@ -1,5 +1,7 @@
 package com.java.class20;
 
+import com.java.class22.MethodMasterEg;
+
 import java.util.Arrays;
 
 public class bCheckAnagram2 {
