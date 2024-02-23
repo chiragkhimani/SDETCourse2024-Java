@@ -39,6 +39,7 @@ public class aStringMethodsBasics {
 //        7. Find char at particular index
         System.out.println(str1.indexOf("o")); //4
         System.out.println(str1.indexOf("l")); //2, 2,
+        System.out.println(str1.indexOf("z")); //-1
 
 //        String str5 = "Hello everyone, can you spell potato";
         System.out.println(str5.indexOf("everyone"));//6

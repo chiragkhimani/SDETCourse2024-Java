@@ -1,0 +1,26 @@
+User Defined Method
+
+1. Reuse the code
+2. Code becomes easier to understand, to maintain and to debug.
+
+Components of Method
+
+1. Method Name         	= printLineDesign
+2. Method Parameters	= ()
+3. Method Return Type	= void
+4. Method Body		= {}
+
+Signature:
+
+public static ReturnType MethodName (Parameters){
+
+BODY
+
+}
+
+Typed of Method
+
+1. Void Method
+2. Return Method
+
+Refer - MethodMatserEG in class22
