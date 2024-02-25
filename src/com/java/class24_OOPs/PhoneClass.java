@@ -9,8 +9,6 @@ public class PhoneClass {
         double camara;
 
 
-
-
         //    Methods - Actions - Functions
         public void text(){
             System.out.println("Sending a text");

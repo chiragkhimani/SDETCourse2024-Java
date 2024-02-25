@@ -19,10 +19,11 @@ public class BankClass {
 
     }
 
-    //Parameterised Constructor
+//    //Parameterised Constructor
     BankClass(String accountNameFromUser){
-        accountName=accountNameFromUser;
-        accountNumber=accountName+ Math.random();
+
+        accountName = "Shyam";
+//        accountNumber=accountName+ Math.random();
     }
 
     //Methods
