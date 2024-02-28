@@ -4,7 +4,7 @@ public class BankTester {
 
     public static void main(String[] args) {
 
-        BankClass acc1 = new BankClass("Shyam");
+        BankClass acc1 = new BankClass();
         acc1.withdraw(100); //
         acc1.showBalance(); //-100
         System.out.println(acc1.accountName); //Shyam

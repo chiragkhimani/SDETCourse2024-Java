@@ -1,0 +1,56 @@
+OOPs Review
+
+0. Methods
+
+	a. Method Name
+	b. Method parameter
+	c. Method Body
+	d. Method return type
+
+1. Class
+
+	a. Blueprint/Design
+
+	a. Variables
+	b. Methods
+	c. Constructor
+
+
+2.. Object
+	- Instance of  the class
+	- new keyword
+	- it will occupy the memory
+
+3. Constructor - To initialize the variable
+
+Methods VS Constructor
+
+a. Method Name		- Same as Class Name
+b. Method parameter     - Yes
+c. Method Body	 	- Yes
+d. Method return type   - No
+
+Types Of Constructor
+
+1. Default Constructor            - Created by Java
+2. Non-Parameterised Constructor  - User-defined without parameter
+3. Parameterised Constructor      - User-defined with parameter
+
+4. Static Keyword
+
+A. Static Variable
+1. Static keyword we need to use to  create static
+2. Class level variable, so we can access it directly with ClassName
+3. It's having only ONE copy at the class level (so every object will share that memory)
+4. If we change the value once for a static variable, it will use that value for all the objects.
+
+Real Examples:
+1. Company Name for all employees
+2. Brand of any car
+3. Collage name for all the students
+
+B. Static Method
+1 Static Method belongs to the class and we can directly access it with the ClassName
+2 Under static method -->> we can access ONLY static Variables
+          	But,
+If the method is NOT static -->> then we can access both static and non-static variable
