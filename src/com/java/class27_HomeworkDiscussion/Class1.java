@@ -1,4 +1,4 @@
-package com.java.class27_Inheritance;
+package com.java.class27_HomeworkDiscussion;
 
 public class Class1 {
 
