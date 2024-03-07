@@ -1,0 +1,28 @@
+6. Polymorphism
+	a. Method Overloading
+
+		Same Class,
+		Same Method Name
+		But, Different Parameters:
+
+			1. Number of Parameters
+			2. Types of Parameters
+			3. Sequence/Order of Parameters
+
+
+
+		a. Method Overloading 		b. Method Overriding
+
+Method Name  		Same			    Same
+
+Location		    Same Class		    Different Class
+
+Method Parameters	Different		    Same
+
+Inheritance		    Not applicable		Yes
+
+Polymorphism		Compile Time		Run Time
+
+
+	c. Dynamic Polymorphism
+
