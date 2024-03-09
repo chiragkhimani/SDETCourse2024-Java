@@ -1,0 +1,73 @@
+================Core Java=================
+
+1. DataTypes, Identifier and Variables
+
+2. Operators:
+	Assignment (=)
+	Arithmetic (+,-,%,/,*)
+	Logic	   (&&, ||, !)
+	Relational (<>, <=, >=, ==, !=)
+
+3. String Concatenation, expression and priority/A, type casting
+
+4. If else
+
+	if
+	if else
+	Ladder
+	Nested
+
+5. Switch Statement
+
+6. Scanner Class
+
+7. Loop
+
+	While
+	Do While
+	For loop
+	Nested For loop
+	For each
+	increment/decrement - i++, i--
+
+8. Array
+	1D Array
+	2D Array
+
+9. String Methods
+
+10. User Define Methods
+
+================OOPs=================
+
+0. Methods
+1. Class
+2. Object
+3. Constructor
+4. Static
+
+5. Inheritance
+	a. What is Inheritance - Extends keyword
+	b. What child can access from parent
+	c. Type
+	d. this, super
+	e. COnstructor chaining
+
+6. Polymorphism
+
+	a. Method Overloading
+	b. Method overriding
+	c. Dynamic Polymorphism
+
+7. Encapsulation
+
+	a. Access Modifier
+	b. Encapsulation
+
+8. Abstraction - Interface
+
+
+9. Exception Handling
+10. Collection Framework
+
+=============================================
