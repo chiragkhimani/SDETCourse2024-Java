@@ -1,7 +1,7 @@
 package com.java.class28_Inheritance;
 
 class Parent1 {
-    Parent1() {
+    public Parent1() {
         System.out.println("1. Non Parameterised - Parent");
     }
 

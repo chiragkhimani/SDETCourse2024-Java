@@ -15,7 +15,7 @@ class Child2 extends Parent2{
       System.out.println("3. Non Para in Child ");
     }
     Child2(int a){
-      System.out.println("4. Parameterised Const in Child2");
+          System.out.println("4. Parameterised Const in Child2");
     }
 }
 
