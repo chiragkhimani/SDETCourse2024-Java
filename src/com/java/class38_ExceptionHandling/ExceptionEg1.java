@@ -17,13 +17,15 @@ public class ExceptionEg1 {
 
             int a = sc.nextInt();
             System.out.println(a);
-        } catch (ArithmeticException e) {
+        }
+
+         catch (ArithmeticException e) {
             System.out.println("You can not divide the number by Zero" + e.getMessage());
         } catch (IndexOutOfBoundsException e) {
             System.out.println("Stay in your limit " + e.getMessage());
         }  catch (NullPointerException e) {
             System.out.println("Hey Null, You don't exist " + e.getMessage());
-        }   catch (Exception e){
+        } catch (Exception e){
             System.out.println("Something went wrong " + e.getMessage());
         }
 

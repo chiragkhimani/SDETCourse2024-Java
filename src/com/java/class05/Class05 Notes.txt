@@ -12,7 +12,7 @@
 
 AND Operator(&&)
 
-	b1 	b2 	Result
+	b1 	    b2 	    Result
 
 	True	False	False
 	False	True	False
@@ -22,7 +22,7 @@ AND Operator(&&)
 
 OR Operator(||)
 
-	b1 	b2 	Result
+	b1 	    b2  	Result
 
 	True	False	True
 	False	True	True
