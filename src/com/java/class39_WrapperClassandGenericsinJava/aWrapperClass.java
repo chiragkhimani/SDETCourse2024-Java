@@ -1,11 +1,11 @@
-package com.java.class39_CollectioninJava;
+package com.java.class39_WrapperClassandGenericsinJava;
 
 public class aWrapperClass {
 
     public static void main(String[] args) {
 
         int a = 10; //Primitive Data Type
-        ;
+
         Integer b = Integer.valueOf(a); //Wrapper Class //autoboxing
         int c = b; //auto-unboxing
 

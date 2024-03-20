@@ -1,4 +1,4 @@
-package com.java.class39_CollectioninJava;
+package com.java.class39_WrapperClassandGenericsinJava;
 
 public class bGenericEg {
     public static void main(String[] args) {
