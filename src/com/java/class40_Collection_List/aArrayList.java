@@ -12,8 +12,8 @@ public class aArrayList {
 
 
 // ========================1. Adding Elements==========================================
-        data.add(10);
         data.add(20);
+        data.add(10);
         data.add(30);
         data.add(40);
 //       data.add("Dinora");
@@ -69,6 +69,17 @@ public class aArrayList {
             System.out.println(itr.next());
             System.out.println(itr.hasNext());
         }
+
+//         ========================6. Sort Array Elements==========================================
+
+        System.out.println("=================Sorting====================");
+        System.out.println("Original Array " + data);
+
+        data.sort(Comparator.naturalOrder());
+        System.out.println("Naturally sorted " +data);
+
+        data.sort(Comparator.reverseOrder());
+        System.out.println("Reverse sorted " +data);
 
     }
 
